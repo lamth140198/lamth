@@ -1,1 +1,1 @@
-# lamth
+# LamTH
